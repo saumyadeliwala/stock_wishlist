@@ -49,8 +49,8 @@ class WatchlistScreen extends StatelessWidget {
       indicatorColor: Colors.black,
       labelColor: Colors.black,
       unselectedLabelColor: Colors.grey,
-      labelStyle: GoogleFonts.poppins(fontSize: 14, fontWeight: FontWeight.w600),
-      unselectedLabelStyle: GoogleFonts.poppins(fontSize: 14),
+      labelStyle: GoogleFonts.poppins(fontSize: 15, fontWeight: FontWeight.w600),
+      unselectedLabelStyle: GoogleFonts.poppins(fontSize: 15),
       tabs: [
         Tab(text: "Watchlist 1"),
         Tab(text: "Watchlist 2"),
