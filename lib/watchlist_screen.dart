@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-
+// ignore: use_key_in_widget_constructors
 class WatchlistScreen extends StatelessWidget {
   final List<Map<String, dynamic>> stocks = [
     {"name": "RELIANCE", "price": 3000, "change": "+5.35 (+0.12%)", "color": Colors.green},
